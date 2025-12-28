@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Kyle C (@koki7o)
 
-<!--
-**koki7o/koki7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manager @ Day ☀️ | Developer @ Night 👨‍💻 | Entrepreneur @ Heart ❤️**
 
-Here are some ideas to get you started:
+In other words, I like making stuff and putting it on the internet... 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏽‍🚀 Current Dev Projects
+
+- **[wiwo.world](https://wiwo.world)** 🗺️ - Interactive map-based events web app 🎉
+- **[mcp-framework](https://github.com/koki7o/mcp-framework)** 🦀 - Rust MCP framework for building AI agents
+- **[gitscroll.dev](https://www.gitscroll.dev/)** 🔧 - Developer tools
+
+---
+
+## ⚙️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+**And what not** 😂
+
+---
+
+## 💭 Philosophy
+
+> "The best way out is always through" - Robert Frost
+
+---
+
+## 🤠 Other Developer & Entrepreneurial Adventures
+
+- **[thedevfounder.com](https://thedevfounder.com)** - My personal website
+- **[merch.thedevfounder.com](https://merch.thedevfounder.com)** - Funny dev t-shirts 👕
+- **[fitbetterlife.com](https://fitbetterlife.com)** - Have a better life
+- **[time-portal.vercel.app](https://time-portal.vercel.app/)** - Time management
+- **[childrenbooks.vercel.app](https://childrenbooks.vercel.app/)** - Children's books
+
+---
+
+## ☕ Support My Work
+
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? ☺️
+
+<a href="https://www.buymeacoffee.com/koki7o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+## 📫 Let's Connect
+
+**🔗 Link in Bio:** [linkin.bio/thedevfounder](https://linkin.bio/thedevfounder/)  
+**Email:** [inbox@thedevfounder.com](mailto:inbox@thedevfounder.com)  
+**Threads:** [@thedevfounder](https://www.threads.com/@thedevfounder)  
+**X (Twitter):** [@koki7o](https://x.com/koki7o)  
+**Facebook:** [The Dev Founder](https://www.facebook.com/profile.php?id=61579678776968)
+
+---
+
+**Thanks for watching!** ❤️
