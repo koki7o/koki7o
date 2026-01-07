@@ -63,7 +63,7 @@ In other words, I like making stuff and putting it on the internet... 🤓
 - **[thedevfounder.com](https://thedevfounder.com)** - My personal website
 - **[merch.thedevfounder.com](https://merch.thedevfounder.com)** - Funny dev t-shirts 👕
 - **[fitbetterlife.com](https://fitbetterlife.com)** - Have a better life
-- **[time-portal.vercel.app](https://time-portal.vercel.app/)** - Time management
+- **[time-portal.vercel.app](https://time-portal.vercel.app/)** - Doom scroll back in time
 - **[childrenbooks.vercel.app](https://childrenbooks.vercel.app/)** - Children's books
   
 ---
