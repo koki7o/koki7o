@@ -5,8 +5,24 @@
 In other words, I like making stuff and putting it on the internet... 🤓
 
 ---
+Working on:
 
-## 👩🏽‍🚀 Current Dev Projects
+**[aicofounders.co](https://aicofounders.co)**
+
+A team of 5 AI specialists that actually execute:
+
+Validate your idea
+Generate what you need
+Connect to tools
+Deploy it live
+
+While everyone's talking about AI, I'm shipping it.
+
+**[aicofounders.co](https://aicofounders.co)** - waitlist live now 🚀
+
+---
+
+## 👩🏽‍🚀 Other Dev Projects
 
 - **[wiwo.world](https://wiwo.world)** 🗺️ - Interactive map-based events web app 🎉
 - **[mcp-framework](https://github.com/koki7o/mcp-framework)** 🦀 - Rust MCP framework for building AI agents
