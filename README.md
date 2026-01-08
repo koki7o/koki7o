@@ -11,12 +11,12 @@ In other words, I like making stuff and putting it on the internet... 🤓
 
 A team of 5 AI specialists that actually execute:
 
-Validate your idea
-Generate what you need
-Connect to tools
-Deploy it live
+- Validate your idea
+- Generate what you need
+- Connect to tools
+- Deploy it live
 
-While everyone's talking about AI, I'm shipping it.
+AI experts that plan together, generate what you need, and connect to external tools to actually execute—from validating ideas to deploying
 
 **[aicofounders.co](https://aicofounders.co)** - waitlist live now 🚀
 
